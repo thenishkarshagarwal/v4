@@ -136,10 +136,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! I'm Nishkarsh Agarwal. You might assume that my skills are not he best for an MNC,
+              or a large company, but are ideal for small businesses or anyone else, who would like to
+              get the work done in a professional (quality) manner, as soon as possible, without making
+              a big whole in their pocket &mdash; I’m the best guy to call.
             </p>
 
             <p>
